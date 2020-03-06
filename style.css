@@ -108,7 +108,7 @@
 	border-radius: 6px;
 	padding: 10px;
 	margin: 10px;
-		background:rgba(0,0,0, 0.5) ;
+		background:rgba(0,0,0, 0.1) ;
 }
 .middle img{
 	max-width: 100%;
@@ -185,7 +185,7 @@ text-align:center;
 	display: block;
 	border: 2px solid  #9932CC;
 	border-radius: 6px;
-width: 100%;
+width: 99%;
 height: 40px;
 padding: 5px 5px;
 font-size: 20px;
@@ -200,7 +200,7 @@ text-align:center;
 	
 }
 .login1 {
-	width: 100%;
+	width: 99%;
 	height: 40px;
 	line-height: 10px;
 	padding: 5px 5px;
@@ -312,7 +312,7 @@ important}
 	display:inline-block;
 	cursor:pointer;
 	height:30px;
-	width:49%;
+	width:48%;
 	box-shadow: 1px 1px 10px 3px rgba(0,0,0,0.5);
 	}
 
